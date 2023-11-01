@@ -1,0 +1,15 @@
+export const COLORS = {
+    LIGHT: '#d4e0e3',
+    WHITE: '#ffffff',
+    DARK: '#090b0e',
+    DARK_05: 'rgba(9,11,14,0.5)',
+    PRIMARY: '#073743',
+    SECONDARY: '#207782',
+    INFO: '#d09265',
+    ACCENT_1: '#1b4969',
+    ACCENT_2: '#00708d',
+    ACCENT_3: '#a44759',
+    SUCCESS: '#009a4c',
+    WARNING: '#e5c600',
+    DANGER: '#f0001e',
+}
